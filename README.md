@@ -1,15 +1,14 @@
 # LGCA Release Code
 
-Code supporting *"LGCA: A Computationally Efficient Frozen-Backbone
+Code supporting *"LGCA: A Training-Efficient Frozen-Backbone
 Cross-Attention Adaptation for Vietnamese Bone-Radiograph Question
-Answering"* (IEEE Access). This folder contains the model, training,
-inference, and evaluation code used to produce every number reported in
-the paper. **It does not contain the clinical dataset itself** — see
-[Data (not included)](#data-not-included) for why, and what you need to
-supply to run any of this.
+Answering"* (IEEE Access, under preparation). This repository contains the
+model, training, inference, and evaluation code used to produce every
+number reported in the paper. **It does not contain the clinical dataset
+itself** — see [Data (not included)](#data-not-included) for why, and what
+you need to supply to run any of this.
 
-If you are the thesis author preparing this for public release: replace
-this placeholder repository link once published: `<REPO_URL>`.
+Repository: https://github.com/huymessi2706/lgca-vietnamese-bone-vqa
 
 ## Folder structure
 
